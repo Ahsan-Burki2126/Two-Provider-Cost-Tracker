@@ -1,2 +1,11 @@
-# Two-Provider-Cost-Tracker
-Send the same prompt to two LLM providers from one Python script, and show the reply, the token counts and the cost of each call side by side.
+# Two Provider Cost Tracker
+
+A Python command line application that sends the same prompt to Google Gemini and Groq. It displays each reply, compares token usage, response time, and estimated cost, then saves the provider results in `results.json`.
+
+## Setup
+
+Install the project dependencies.
+
+```bash
+uv sync
+```

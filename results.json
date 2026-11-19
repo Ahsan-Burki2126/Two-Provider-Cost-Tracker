@@ -1,0 +1,22 @@
+[
+  {
+    "provider": "gemini",
+    "model": "gemini-3.1-flash-lite",
+    "reply": "**Machine learning** is a field of artificial intelligence that focuses on building systems that learn from data. Instead of being explicitly programmed to perform a task, these systems identify patterns and trends in data to make predictions, decisions, or improvements over time.",
+    "input_tokens": 8,
+    "output_tokens": 49,
+    "input_price_per_m": 0.25,
+    "output_price_per_m": 1.5,
+    "cost_usd": 7.549999999999999e-05
+  },
+  {
+    "provider": "groq",
+    "model": "openai/gpt-oss-20b",
+    "reply": "Machine learning is a branch of artificial intelligence that lets computers learn from data. By training on examples, algorithms can make predictions or decisions without being explicitly programmed for each task.",
+    "input_tokens": 78,
+    "output_tokens": 161,
+    "input_price_per_m": 0.075,
+    "output_price_per_m": 0.3,
+    "cost_usd": 5.4149999999999995e-05
+  }
+]
